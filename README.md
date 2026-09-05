@@ -83,6 +83,7 @@ Zenburn features custom highlighting for these plugins:
 * [gitsigns](https://github.com/lewis6991/gitsigns.nvim)
 * [hydra](https://github.com/anuvyklack/hydra.nvim)
 * [neotest](https://github.com/nvim-neotest/neotest)
+* [neogit](https://github.com/NeogitOrg/neogit)
 
 Contributing
 ------------

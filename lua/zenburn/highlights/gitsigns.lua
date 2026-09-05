@@ -8,5 +8,5 @@ return {
     GitSignsChangeLn = { bg=c.DiffChange.bg },
     GitSignsDelete = { fg=c.String.fg },
     GitSignsDeleteNr = { fg=c.String.fg },
-    GitSignsDeleteLn = { bg=c.DiffText.bg },
+    GitSignsDeleteLn = { bg = c.DiffDelete.bg },
 }
